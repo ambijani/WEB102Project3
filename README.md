@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ambijani/WEB102Project3/blob/main/Recording2024-03-18001418-ezgif.com-video-to-gif-converter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ezgif.com
 
